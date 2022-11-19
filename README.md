@@ -14,3 +14,5 @@ a bunch of COBOL programs realized for a course. control break, file matching, d
 - pgmapx15: file matching
 - pgmvac15: data validation
 - pgmvaz15: data validation
+
+![COBOL](https://i.imgur.com/a8hS8ZK.png)
