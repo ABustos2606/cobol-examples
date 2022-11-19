@@ -1,5 +1,5 @@
 # COBOL examples
-a bunch of COBOL programs realized for a course. control break, file matching, data validation, VSAM, print, DB2...
+a bunch of COBOL programs made for a course. control break, file matching, data validation, VSAM, printing, DB2...
 
 - corperf2: 2 level control break / corte de control de 2 niveles
 - db2-tp33: file reading and database insertion with totals displayed / lectura de archivo e inserción en base de datos con totales mostrados por display
